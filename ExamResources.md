@@ -7,6 +7,10 @@ You need to be logged into your Colgate email to access these links.
 * [Exam 1](https://drive.google.com/drive/folders/1w--HbRqydvMlM1FxDDQDst1vpeqryOVY?usp=drive_link)
 
 
+## Reflect and retry templates
+
+* [Exam 1](https://docs.google.com/document/d/13xGWq4LaIV3eBWiEEYK6KDSvTGMqCY4VUgzvf9hMYoU/edit?usp=sharing)
+
 ## Other Resources
 
 * ["How to Study Computer Science: A primer for COSC 101 at Colgate University"](howtostudy.md) by John Stratton 
