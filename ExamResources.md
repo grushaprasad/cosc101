@@ -6,6 +6,7 @@ You need to be logged into your Colgate email to access these links.
 
 * [Exam 1](https://drive.google.com/drive/folders/1w--HbRqydvMlM1FxDDQDst1vpeqryOVY?usp=drive_link)
 * [Exam 2](https://drive.google.com/drive/folders/1Aq1rkb0poH30DdZ3f104Do0Otvl9uVXd?usp=drive_link)
+* [Exam 3](https://drive.google.com/drive/folders/1KHuxR6xhlpo7yMjcJtSgceh9p4z6yjgL?usp=drive_link)
 
 
 ## Reflect and retry templates
